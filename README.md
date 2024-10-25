@@ -4,7 +4,7 @@ Everything you need to Update the Assault Runner from v0.7 to v2.7
 
 **_This is not an official Assault Fitness account_**
 
-The [instructions providd by Assault Fitness](TSB 14July22_Console_Firmware_Update-1.pdf)
+The [instructions provided by Assault Fitness](TSB_14July22_Console_Firmware_Update-1.pdf)
 
 The firmware `.bin` file is [located here](SI3941_DFU_2201061925_V2.7.bin)
 
